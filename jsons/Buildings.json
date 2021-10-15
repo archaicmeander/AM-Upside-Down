@@ -1,14 +1,14 @@
 [
    	{
-		"name": "Monument",
+		"name": "Major Monument",
 		"replaces": "Monument",
 		"uniqueTo": "Upside-Down",
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured","[+10 Food] from [All] tiles [in this city]","[+10 Gold] from [All] tiles [in this city]","[+10 Science] from [All] tiles [in this city]","[+10 Production] from [All] tiles [in this city]","[+10 Faith] from [All] tiles [in this city]","[+10 Culture] from [All] tiles [in this city]","[+10 Happiness] from [All] tiles [in this city]"]
 	},
 	{
 		"name": "Shrine",
