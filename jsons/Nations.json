@@ -5,15 +5,15 @@
 		"adjective": ["Upside-Down"],
 		//No preferred victory type - we'll take any kind!
 		"style": "Upside Down",
-		
+
 		"startIntroPart1": "History in best the among generals and soldiers its, other the to world the of end one from battle into triumphantly marched have armies its.nation great a as endured has Down-Upside - enemies often and - competitors by surrounded although. Letters and arts, culture of center world the been Down-Upside has long. Rotatceps, you to triumph and life long.",
 		"startIntroPart2": "Time of test the stand will that civilization a build you can? World the of center again once Down-Upside make you will? All to order and peace bringing, again rises empire your that it to see you will? Down-Upside of glory the reclaim more once to you to turn people your, Rotatceps mighty O?",
-		
+
 		"declaringWar": "Time payback it's, now. It know you, badly very yourself behaved you've.",
 		"attacked": "It swear I! Dearly regret soon will you! Fool!",
 		"defeated": "Triumph your in merciful be will you hope I. Yours is...day the.",
 		"introduction": "Bravery military for renowned are who, you with relationship just and fair a for hope we.",
-		
+
 		"neutralHello": "Peace you wish I.",
 		"hateHello": "Want you do what?",
 		"tradeRequest": "Me with deal this make to – existing for reason a have do you that appears it.",
@@ -56,6 +56,6 @@
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
 			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.", "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
-		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","S'Alitta Truoc","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
+		"cities": ["The Capitol","Chicago","Lincoln Square","Ravenswood","Mount Vernon","Cedar Rapids","Iowa City","Puyallup","Seattle","Sumner","Orting","Bellevue","Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","S'Alitta Truoc","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
 	}
 ]
